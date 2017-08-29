@@ -1,0 +1,32 @@
+Part 1
+1) Create a folder named "practice-project"
+2) Log in to github and create a new repository also named "practice-project"
+3) Copy the origin URL from github after the repository is created
+4) Initialize a git repository inside of the "practice-project" directory
+5) Set the remote origin of the git repository to the one you copied from github
+6) Create index.html, style.css and script.js files inside of "practice-project"
+7) Write a basic boiler plate with a header into "index.html" and connect style.css and script.js
+8) Make the background #d3d3d3 using "style.css"
+9) Write an alert into "script.js" that signals that the javascript is properly connected
+10) Add all these files to the staging area
+11) Create a commit with the commit message "Initial Commit"
+12) Push the commit to the master branch
+13) View your changes on GitHub
+14) Write a paragraph of lorem ipsum into "index.html"
+15) Change the color of paragraphs to #590000 using "style.css"
+16) Change the alert in "script.js" to a console.log
+17) Check the status of your git repository
+18) Add, commit and push all the changes you just made
+
+Part 2
+1) Create and switch to a new branch of "practice-project" called "second-page"
+2) Create a new file name "about.html"
+3) Write a basic boilerplate and header into "about.html"
+4) Add, commit and push changes you just made to the "second-page" branch
+5) View your changes on GitHub
+6) Imagine you are now done working on the second page, merge the "second-page" branch with the "master" branch
+7) View your changes on GitHub
+8) Delete the "second-page" branch
+9) View your changes on GitHub
+
+
